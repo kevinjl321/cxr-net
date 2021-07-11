@@ -138,6 +138,5 @@ dmypy.json
 cython_debug/
 
 #dataset
-data/
 test/
 train/
