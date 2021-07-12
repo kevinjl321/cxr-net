@@ -137,8 +137,13 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+#Pycharm
+.idea/
+
 #dataset
-test/
-train/
-test/
+data/
+
+#model
+vgg16_1.h5
+
 
