@@ -6,11 +6,9 @@ import os
 import cv2
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 
-
 def crop_top(img, percent=0.15):
     offset = int(img.shape[0] * percent)
     return img[offset:]
-
 
 def central_crop(img):
     size = min(img.shape[0], img.shape[1])
@@ -18,14 +16,12 @@ def central_crop(img):
     offset_w = int((img.shape[1] - size) / 2)
     return img[offset_h:offset_h + size, offset_w:offset_w + size]
 
-
 def process_image_file(filepath, top_percent, size):
     img = cv2.imread(filepath)
     img = crop_top(img, percent=top_percent)
     img = central_crop(img)
     img = cv2.resize(img, (size, size))
     return img
-
 
 def random_ratio_resize(img, prob=0.3, delta=0.1):
     if np.random.rand() >= prob:
@@ -54,7 +50,6 @@ def random_ratio_resize(img, prob=0.3, delta=0.1):
         raise ValueError(img.shape, size)
     return img
 
-
 _augmentation_transform = ImageDataGenerator(
     featurewise_center=False,
     featurewise_std_normalization=False,
@@ -68,18 +63,15 @@ _augmentation_transform = ImageDataGenerator(
     cval=0.,
 )
 
-
 def apply_augmentation(img):
     img = random_ratio_resize(img)
     img = _augmentation_transform.random_transform(img)
     return img
 
-
 def _process_csv_file(file):
     with open(file, 'Covid-net-copy.py') as fr:
         files = fr.readlines()
     return files
-
 
 class BalanceCovidDataset(keras.utils.Sequence):
     'Generates data for Keras'
