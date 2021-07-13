@@ -146,4 +146,7 @@ data/
 #models
 trained_models/
 
+#other
+.DS_Store
+
 
