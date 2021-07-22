@@ -24,6 +24,7 @@ To access and learn more about the dataset we used, click [here](https://github.
 
 # Acknowledgements
 ![enter image description here](https://assets.change.org/photos/9/xw/vd/TKxwVdwHAkMcxZd-800x450-noPad.jpg?1520548913)
+
 We would like to express our gratitude to our supervisors and instructors: Ryan Solgi, Laboni Sarker, and S. Shailja who guided us and provided us with valuable insight throughout this project. We would also like to thank Dr. Lina Kim and all of those who are involved with UC Santa Barbara’s Summer Research Academies for providing us with the opportunity and environment to conduct this research.
 
 # Results
