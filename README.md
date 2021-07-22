@@ -18,9 +18,9 @@ To access and learn more about the dataset we used, click [here](https://github.
 
 # Research Team
 
- - Kevin Lan, San Marino High School
- - Anish Kasam, Dublin High School
- - Patrick Ting, San Ramon Valley High School
+ - Kevin Lan, San Marino High School (kevinlan321@gmail.com)
+ - Anish Kasam, Dublin High School (anishkasam@gmail.com)
+ - Patrick Ting, San Ramon Valley High School (tingpatrick2@gmail.com)
 
 # Acknowledgements
 ![enter image description here](https://assets.change.org/photos/9/xw/vd/TKxwVdwHAkMcxZd-800x450-noPad.jpg?1520548913)
