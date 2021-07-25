@@ -13,8 +13,8 @@ The modified dataset with partitioned train, validation, and test datasets can b
 
 ## Data distribution
 
-|  Type      | COVID-19 Positive, Normal, Non-COVID-19 Induced Pneumonia |
-|:----------:|:---------------------------------------------------------:|
-| train      |       5144                                                |       
-| validation |        620                                                |        
-| test       |        688                                                |        
+|  Type      | # of Assorted CXRS (3 classes) |
+|:----------:|:------------------------------:|
+| train      |       5144                     |       
+| validation |        620                     |        
+| test       |        688                     |        
