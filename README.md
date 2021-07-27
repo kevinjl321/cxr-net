@@ -1,6 +1,6 @@
 # Applications of Convolutional Neural Networks in Chest X-Ray Analyses for the Detection of COVID-19
 
-* Please note that we have not yet updated this repository with all of our research materials. Check back soon as we will be constantly updating this repository.
+*Please note that we have not yet updated this repository with all of our research materials. Check back soon as we will be constantly updating this repository.
 
 <p align="center">
 	<img src="assets/cxrs.png" alt="photo not available" width="70%" height="70%">
