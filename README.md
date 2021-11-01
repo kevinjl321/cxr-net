@@ -25,12 +25,6 @@ To access and learn more about the dataset we used, click [here](https://github.
 
 We would like to express our gratitude to our supervisors and instructors: Ryan Solgi, Laboni Sarker, and S. Shailja who guided us and provided us with valuable insight throughout this project. We would also like to thank Dr. Lina Kim and all of those who are involved with UC Santa Barbara’s Summer Research Academies for providing us with the opportunity and environment to conduct this research.
 
-# Results
+# Results and Findings
 
-<p align="center">
-	<img src="assets/vggmatrix.png" alt="photo not available" width="70%" height="70%">
-	<img src="assets/resnetmatrix.png" alt="photo not available" width="70%" height="70%">
-	<img src="assets/mobilenetmatrix.png" alt="photo not available" width="70%" height="70%">
-	<br>
-	<em>Binary classification confusion matrices generated for each model. </em>
-</p>
+To read more about our research process as well as conclusions and results collected, read our [manuscript](https://docs.google.com/document/d/e/2PACX-1vS71_RoS3txYoIYvToPg1Q8ALt1BmuuHn5kUI3Lrcnnvhz1M86Yjwzuqrg4MfLA3rdll7fy7bB2HDfM/pub)
