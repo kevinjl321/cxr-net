@@ -25,4 +25,4 @@ We would like to express our gratitude to our supervisors and instructors: Ryan 
 
 # Results and Findings
 
-To read more about our research process as well as conclusions and results collected, read our [manuscript](https://docs.google.com/document/d/e/2PACX-1vS71_RoS3txYoIYvToPg1Q8ALt1BmuuHn5kUI3Lrcnnvhz1M86Yjwzuqrg4MfLA3rdll7fy7bB2HDfM/pub)
+To read more about our research process as well as conclusions and results collected, read our [published article](https://www.biomedscijournal.com/articles/abse-aid1015.pdf)
